@@ -1,0 +1,28 @@
+.custom-nav-brand {
+  padding: 5px;
+  border-radius: 5px;
+  background: linear-gradient(to right, #00788c, #1d1177);
+  border: none;
+}
+
+.custom-nav-item {
+  margin-right: 10px;
+  border-radius: 5px;
+  padding-inline: 0.1rem;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.custom-nav-item>a {
+  padding: 5px 10px;
+}
+
+.custom-nav-item:hover {
+  background: linear-gradient(to right, #00788c, #1d1167);
+  color: white;
+}
+
+.custom-dropdown>a,
+.custom-dropdown>a:hover,
+.custom-dropdown>a:focus {
+  color: black !important;
+}

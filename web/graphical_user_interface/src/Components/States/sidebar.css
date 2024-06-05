@@ -1,0 +1,40 @@
+.sidebar-container {
+  width: 100%;
+  height: 100%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  color: black;
+}
+
+.sidebar-navigation {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  position: relative;
+}
+
+.sidebar-navigation ul {
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar-navigation li {
+  display: inline-block;
+  width: 100%;
+  margin: 10px 0px;
+}
+
+.sidebar-navigation li .link {
+  padding: 12px 15px 12px 30px;
+  display: block;
+  font-size: 1.2rem;
+  border-radius: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+.sidebar-navigation .link {
+  display: block;
+  padding: 10px;
+  transition: background-color 0.3s ease-in-out;
+}

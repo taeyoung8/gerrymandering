@@ -1,0 +1,28 @@
+.chart-container {
+    width: 100%;
+    padding-top: 20px;
+    height: 300px; 
+  }
+
+  h2 {
+    font-size: 24px; /* Sets the size of the font */
+    color: #4A90E2; /* Sets the text color */
+    text-align: center; /* Aligns the text to the center of its container */
+    /* font-family: 'Arial', sans-serif; Sets the font family */
+    margin-top: 30px; /* Adds space above the element */
+    margin-bottom: 30px; /* Adds space below the element */
+    font-weight: bold; /* Makes the font bold */
+    /* text-shadow: 2px 2px 4px #aaa; Adds a shadow to the text */
+  }
+  
+  .long-button {
+    text-align: center; 
+  }
+  
+  .long-button:hover {
+    background-color: #0056b3; /* Darker shade when hovered for visual feedback */
+  }
+  
+  p {
+    text-align: center;
+  }

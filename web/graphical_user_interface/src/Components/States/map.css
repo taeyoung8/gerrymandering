@@ -1,0 +1,8 @@
+.leaflet-container {
+  background: whitesmoke;
+  border-radius: 17px;
+}
+
+.leaflet-container .leaflet-control-container .leaflet-bottom.leaflet-right {
+  display: none;
+}

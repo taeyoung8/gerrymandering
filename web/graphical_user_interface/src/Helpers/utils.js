@@ -1,0 +1,1 @@
+export const ColorMap = { 'White': '#045A8D', 'Black': '#F03B20', 'Hispanic': '#2CA25f', 'Asian': '#DD1C77' }
